@@ -47,6 +47,7 @@ In order to replicate the project, the data set have to be downloaded from [http
 
 Initially this folder will look like this:
 
+```bash
 ├── 1.\ Capstone\ Project\ -\ Image\ Recognition.ipynb
 ├── 2.\ Benchmark\ Comparison.ipynb
 ├── 3.\ Predict.ipynb
@@ -77,6 +78,7 @@ Initially this folder will look like this:
     ├── gender_model.h5
     ├── smile_model.h5
     └── young_model.h5
+```
 
 then the "celeba-dataset" folder with the data set have to be added.
 
